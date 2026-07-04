@@ -1,4 +1,4 @@
-# VZS Service - Frontend Comment Stripping Tool
+# strip-comments-tool - Frontend Comment Stripping Tool
 
 An interactive command-line tool for batch-removing comments from front-end projects. Supports multiple file types, backup, dry-run, colored output, configuration persistence, and more.
 
